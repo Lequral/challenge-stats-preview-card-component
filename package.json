@@ -1,0 +1,19 @@
+{
+  "name": "challenge-stats-preview-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lequral/challenge-stats-preview-card-component.git"
+  },
+  "author": "Omti_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lequral/challenge-stats-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/Lequral/challenge-stats-preview-card-component#readme"
+}
