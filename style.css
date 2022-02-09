@@ -41,6 +41,7 @@ body {
     color: var(--transparent-white-main-p);
     font-weight: 400;
     font-size: 15px;
+    margin: 0;
 }
 
 main {
@@ -50,7 +51,7 @@ main {
     margin: 14vh 10%;
     background-color: var(--dark-desaturated-blue);
     border-radius: 20px;
-    height: 72vh;
+    height: 70vh;
 }
 
 h1 {
@@ -113,7 +114,7 @@ ul {
 
     #img, section, ul {
         width: unset;
-    } 
+    }
 
     section {
         height: 60%;
@@ -128,4 +129,8 @@ ul {
     h1 {
         font-size: 25px;
     }
+}
+
+.attribution {
+    height: 2vh;
 }
